@@ -80,7 +80,7 @@ print(x["age"])
 # -------- Data Frame --------
 id = c(1, 2, 3, 4) # vector kolom id
 name = c("tom", "jerry", "dora", "emon") # vector kolom name
-score = c(85.3, 78.4, 88.9, 90) # vector kolom score
+score = c(80.3, 78.4, 88.9, 90) # vector kolom score
 
 # -------- Membuat Data Frame dari kolom Vector
 my_data = data_frame(id, name, score)
