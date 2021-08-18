@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd" version="1.3">
+  <meta lastmodifieddate="2021-08-18">
+    <creator>NodosChile</creator>
+    <description>A GEXF file written in R with "rgexf"</description>
+    <keywords>GEXF, NodosChile, R, rgexf, Gephi</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <nodes>
+      <node id="1" label="seperti">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="3.54733349434724" y="-0.772306332799545" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="2" label="pepatah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="66.7691338187627" y="-13.4050868473898" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="3" label="tiongkok">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="15.0968317856186" y="-9.65790918169841" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="4" label="seribu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-72.9953428691743" y="76.8660606961725" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="5" label="kawan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="32.6708677720027" y="-3.49925195632989" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="6" label="terlalu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-91.3283968840483" y="57.6749965990781" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="7" label="sedikit">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="93.8842946904244" y="-82.9894470107466" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="8" label="satu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="58.1809491199029" y="-20.6932752130277" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="9" label="musuh">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-46.2363215359919" y="31.5583107512105" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="10" label="banyak">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-49.6911446358247" y="-65.6079961101816" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="11" label="saya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-67.9900185139489" y="60.4751098298045" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="12" label="berharap">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-51.3440098545735" y="95.5693433232448" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="13" label="komunikasi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-34.7248410662861" y="27.1613033276742" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="14" label="kita">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="11.8819425662614" y="52.3452222354016" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="15" label="akan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="28.5659629612124" y="-31.5325398922818" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="16" label="terus">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-92.5440881231195" y="47.421251269132" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="17" label="terjalin">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="29.4060519468403" y="99.5782737718956" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="18" label="melalui">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="74.5720544702177" y="-19.7902007627334" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="19" label="media">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="94.3429329267142" y="-43.1292030715099" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="20" label="sosial">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-79.0488445863131" y="-13.8618287218808" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="21" label="ini">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="9.22248546128803" y="-25.2008480121303" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="22" label="masukan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-53.2387092339364" y="-46.3603067939118" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="23" label="dari">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="100" y="-19.5658896990822" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="24" label="para">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-15.9082671815232" y="77.0838043484518" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="25" label="sahabat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-97.2940383945542" y="67.7735161755079" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="26" label="ataupun">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="23.1415014874591" y="4.81936068345274" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="27" label="kritikan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="75.5231226061272" y="-70.1659821915208" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="28" label="selalu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="50.3851838604611" y="-85.8429548309076" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="29" label="menjadi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="17.9630916249085" y="6.10841189513418" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="30" label="hal">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-35.4051882648125" y="44.3097916204794" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="31" label="yang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="6.8008460912698" y="45.6205101259242" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="32" label="tunggu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-32.7911535712986" y="36.0329518008748" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="33" label="untuk">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-16.569282747946" y="-96.4395358225888" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="34" label="terima">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="76.196171766399" y="-72.6003947565272" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="35" label="kasih">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-45.3081792305885" y="-57.6612628740659" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="36" label="setinggi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-75.7951002068041" y="42.0016280780908" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="37" label="tingginya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="19.781104628369" y="54.1598580055538" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="38" label="atas">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="84.3436188575744" y="-57.4603874692306" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="39" label="perhatian">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="86.5032145542324" y="-13.708025526304" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="40" label="dan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-24.4350992029716" y="4.8302002486206" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="41" label="doa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="27.9659937128302" y="22.2876639194183" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="42" label="di">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="52.1529303789854" y="-59.4578036845922" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="43" label="hari">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="31.9240059466517" y="10.4549531726982" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="44" label="kelahiran">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-97.3313635368329" y="7.41791868453259" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="45" label="turut">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-54.0977345432131" y="-59.1353224945533" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="46" label="mendoakan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="48.2793923878812" y="53.9344744352654" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="47" label="kepada">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="22.0544045007158" y="71.1198552492829" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="48" label="atau">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-50.5532704292731" y="-56.9418985350694" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="49" label="keluarga">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="23.5009046146407" y="-89.8469386769242" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="50" label="berulang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="51.8451955274864" y="44.750001434477" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="51" label="tahun">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="52.8632650757859" y="-5.1590833738061" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="52" label="sama">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="25.5604831992974" y="83.1192513907445" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="53" label="dengan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="66.0384750521591" y="-95.3558921025548" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="54" label="semoga">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="59.9340056035961" y="58.7341374353168" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="55" label="allah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-28.4481627738423" y="-98.026723648775" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="56" label="swt">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-46.6193006646673" y="-66.6244294614423" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="57" label="memberikan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-75.8988621688668" y="18.3445774935307" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="58" label="rahmat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-74.837003829256" y="-93.7864850716707" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="59" label="hidayahnya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="56.5702409449296" y="-40.5572633996475" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="60" label="semua">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="17.109668843902" y="-1.65229861808949" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="61" label="inna">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="55.7313891474276" y="94.5916466406068" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="62" label="lillahi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-10.2448041073238" y="84.9665595432107" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="63" label="wa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="21.6825017333011" y="-48.6381729551635" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="64" label="ilaihi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-67.989292595794" y="-28.3047654062855" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="65" label="rajiun">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="28.1815721169455" y="-35.0829037479866" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="66" label="nama">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="88.0603420950352" y="35.0297781929962" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="67" label="pribadi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="57.8462792686115" y="43.537365813751" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="68" label="besar">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-60.2685299529124" y="24.3491301858819" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="69" label="partai">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-25.7416279149586" y="40.2466482083809" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="70" label="gerindra">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="14.621727201293" y="-46.1509755964102" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="71" label="mengucapkan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-30.4964860691338" y="-68.9954544932971" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="72" label="berduka">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="46.434639042676" y="11.7450763251249" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="73" label="cita">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="41.0050940351492" y="-62.2109431240942" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="74" label="wafatnya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-89.6027303981191" y="-59.1742348726132" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="75" label="presiden">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-96.3639217940114" y="-25.1332918834016" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="76" label="republik">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-11.5609244331005" y="-12.7441941857042" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="77" label="indonesia">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-75.0068191937358" y="41.1496849797057" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="78" label="ke">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="23.0359873688902" y="-73.0439274878041" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="79" label="3">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-79.853605477041" y="-41.5811721358451" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="80" label="bapak">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-29.6485872134966" y="-36.7312491631063" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="81" label="bacharuddin">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-8.97815585753369" y="-38.9535738825002" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="82" label="jusuf">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="37.0833601065199" y="-31.3683450349818" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="83" label="habibie">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-94.7842843767078" y="-59.3070336224806" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="84" label="ditempatkan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="91.1492874638719" y="18.7673626940243" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="85" label="sisi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="93.0294488177067" y="0.789822526477309" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="86" label="aamiin">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="15.762508752189" y="-56.9160411889942" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="87" label="luar">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-91.3337696896056" y="92.2775916918872" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="88" label="biasa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="29.7747819472489" y="-1.91336096576443" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="89" label="pak">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="84.5289332722107" y="81.7265834845411" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="90" label="polisi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-54.7282055560202" y="34.6617206346402" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="91" label="mengayomi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-62.342425922554" y="16.5991555852918" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="92" label="rakyat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-56.3119220846792" y="-81.0858400644201" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="93" label="sabar">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="84.2903112034608" y="-14.3029228834564" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="94" label="sehat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-52.4691830415706" y="7.75276951714119" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="95" label="lancar">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="80.4733949688891" y="-77.8635063933236" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="96" label="dalam">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-3.56666072581197" y="-8.25981611693798" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="97" label="menjalankan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-46.6522352801665" y="-36.8399551593383" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="98" label="tugas">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-21.506570136184" y="59.6413338894212" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="99" label="mendidik">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-72.3638121450713" y="77.5137157314179" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="100" label="selamat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="49.3209348503678" y="92.3673342258887" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="101" label="baru">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-1.15651413921283" y="46.5931143472889" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="102" label="1441">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-66.5546122233943" y="-92.9640613002078" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="103" label="h">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="79.8046345589189" y="-65.1416102114921" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="104" label="mampu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="52.6821080945142" y="-94.1697826649806" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="105" label="meneladani">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="8.16005620900468" y="90.3896522646929" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="106" label="perjuangan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="69.0345584201159" y="41.1499386879108" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="107" label="baginda">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="8.20554673673635" y="6.4179463271733" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="108" label="rasulullah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="18.1053980339285" y="14.0419479189235" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="109" label="saw">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-97.9527277551726" y="-95.2632230113974" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="110" label="memperkenalkan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-0.671437660356304" y="-55.4329088121887" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="111" label="islam">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-48.8177001182698" y="-43.9548854372053" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="112" label="rahmatan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-77.1744991917345" y="11.1323400744346" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="113" label="lil">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-28.3420078005318" y="-3.38798869456903" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="114" label="alamin">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="98.4578094915895" y="-55.386723449864" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="115" label="agar">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-40.1259917472614" y="16.1650809355641" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="116" label="sebagai">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-64.9859582857817" y="78.1980943691413" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="117" label="bangsa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="58.5618748823849" y="-78.2434558400067" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="118" label="memiliki">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="10.6613846419202" y="-1.16674926153789" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="119" label="beragam">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-70.0349838876939" y="-35.4493060253564" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="120" label="agama">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-42.3837327394891" y="50.9179497561246" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="121" label="kepercayaan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="91.1068632451376" y="59.3593045392181" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="122" label="dapat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-97.9748937732413" y="49.6594327041857" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="123" label="hidup">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="51.7363250790914" y="53.857069005049" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="124" label="aman">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-98.8567333053314" y="44.8201149702074" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="125" label="damai">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-10.5574193141626" y="-18.0370778673171" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="126" label="bersatu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-31.9662178579674" y="-10.1595641520337" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="127" label="bingkai">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-80.6468411881571" y="-12.5493528862757" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="128" label="kemanusiaan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-69.9325660867343" y="-74.186972739868" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="129" label="sedalam">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-69.8207352255671" y="39.0993123638762" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="130" label="dalamnya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-49.0568454417093" y="-57.2160400122927" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="131" label="meninggalnya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="13.1543687144629" y="-69.1682654321461" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="132" label="ibu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-4.39275825462438" y="62.7415324777503" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="133" label="siti">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="44.9900682811954" y="81.4945388006126" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="134" label="habibah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-28.0759135731535" y="88.0960495454964" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="135" label="ibunda">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="79.5444951918136" y="-67.2194209452819" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="136" label="ri">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="47.7318166779222" y="-16.2108970062617" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="137" label="6">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="80.1896453783004" y="-67.8734735771693" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="138" label="sbyudhoyono">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-89.3684509640895" y="89.4872911683053" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="139" label="mendapat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="8.80993993802764" y="-77.161378225826" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="140" label="tempat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-67.075848471085" y="-53.5119581749008" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="141" label="terbaik">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="43.9619282453279" y="-66.722575537424" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="142" label="dirgahayu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="62.7129134164138" y="3.93450092608035" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="143" label="74">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="77.5015157702195" y="-62.5077085825078" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="144" label="insya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="19.4936074724311" y="-96.3355788384" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="145" label="selama">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-10.9691523109495" y="-100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="146" label="hayat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="65.7503863848135" y="19.032586893731" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="147" label="dikandung">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-77.7584713219061" y="1.16115046848063" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="148" label="badan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="69.318950363536" y="-66.5565515760068" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="149" label="berjuang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="52.2228999286733" y="-31.428845340465" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="150" label="semangat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-5.41933250572406" y="95.9563629291016" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="151" label="mewujudkan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-9.01938431968898" y="-6.61987094276238" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="152" label="kemerdekan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="76.2501576806847" y="59.74014818943" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="153" label="membela">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="76.4415874384673" y="100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="154" label="keadilan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-92.2140546726017" y="9.6322441445564" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="155" label="kebenaran">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="47.0760633861162" y="-7.4957464115848" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="156" label="kepentingan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="83.1069207942586" y="17.8134655386984" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="157" label="gerakan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-31.3119927114222" y="83.4249381350756" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="158" label="pramuka">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="96.2902045853437" y="-11.1130080750995" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="159" label="58">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="38.9710310101676" y="-80.9234752543904" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="160" label="bergerak">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="82.6350603234675" y="69.9394221319573" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="161" label="senantiasa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-49.3995423860358" y="-57.8585961256656" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="162" label="melahirkan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="49.0401645391202" y="-16.3530667374824" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="163" label="tunas">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-29.7776543472434" y="7.84446706620923" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="164" label="muda">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="72.9395481518606" y="69.5169871713967" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="165" label="kuat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-31.07444051289" y="30.101935299982" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="166" label="bermartabat">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-75.3777874339863" y="-36.5529558163023" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="167" label="pantang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-45.2188376940021" y="26.921685878243" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="168" label="putus">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="49.3709561635397" y="-48.1779938532279" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="169" label="asa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="22.0044390382055" y="-66.3298848929764" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="170" label="tapi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-84.3962307425909" y="-81.6969710684002" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="171" label="juga">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-81.8637726115339" y="6.952076042074" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="172" label="riang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="55.0335734723975" y="62.850592345055" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="173" label="gembira">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-58.8180716983861" y="82.4239126057194" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="174" label="membantu">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="94.9381980325733" y="-13.8037834912795" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="175" label="pendiri">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-87.9538027212365" y="52.8681599759492" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="176" label="merdeka">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-86.7919231030619" y="61.1734827386056" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="177" label="mengajak">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="49.2128666290786" y="66.608390717219" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="178" label="mendo">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-41.575569031335" y="92.8721324428227" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="179" label="sodara">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="55.6417851174132" y="23.4371399671161" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="180" label="jamaah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="68.0204482296158" y="-0.446014096553682" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="181" label="haji">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-79.0140199900431" y="-94.3687115902857" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="182" label="kesehatan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="69.6945126835222" y="81.9726713891973" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="183" label="kekuatan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="15.1382744746201" y="-8.72658569034063" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="184" label="barokah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="81.0126192025487" y="80.6583552731099" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="185" label="nya">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-29.5497136121913" y="19.0487378260249" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="186" label="sehingga">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="66.7669489015558" y="89.423500814431" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="187" label="bisa">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="23.2760003204199" y="-34.2168909262695" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="188" label="melaksanakan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="87.3145003284149" y="-74.672977356459" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="189" label="ibadah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-7.37686004053853" y="-94.2204807794772" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="190" label="baik">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="83.1256569824687" y="70.6134053353447" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="191" label="kembali">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-15.086143148733" y="71.9513648397354" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="192" label="tanah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="64.4000199127037" y="77.7136886329765" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="193" label="air">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-54.3718210330379" y="73.9022533753262" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="194" label="mabrur">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="0.351690750049727" y="-46.2171181743122" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="195" label="qurban">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-35.6916057193181" y="-56.4737836479726" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="196" label="bukan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-82.5268731912978" y="-35.2178885382917" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="197" label="lah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-41.6166961851653" y="24.1635900744715" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="198" label="semata">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="98.8563349538816" y="38.4812927577094" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="199" label="mata">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="29.4764054288634" y="45.1843481838967" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="200" label="tentang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-3.38709317103833" y="98.0688534995888" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="201" label="menyembelih">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-47.0640799314613" y="-42.3500033028635" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="202" label="hewan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-61.962798910327" y="-7.69388035307557" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="203" label="adalah">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="53.9081325018427" y="-25.6001933567763" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="204" label="bentuk">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="31.213860290062" y="41.2047748869791" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="205" label="ketaatan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-14.1730662901097" y="97.0101025157165" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="206" label="ketaqwaan">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="41.1229463747717" y="70.5695341879747" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="207" label="seorang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="66.6881486740829" y="11.9806207675537" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="208" label="hamba">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="46.4429882250254" y="31.469017441068" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="209" label="sang">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-100" y="13.6048975737593" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="210" label="pencipta">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-9.10362031930747" y="-63.8271485197116" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="211" label="nabi">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-30.2118369224153" y="65.9960630404858" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="212" label="ibrahim">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="82.4701671672121" y="53.8981983118131" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="213" label="as">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-32.8099850754743" y="-13.6495379568619" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="214" label="ismail">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-62.7407222239169" y="-92.8588793015128" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="215" label="dibaca">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="4.94385147951249" y="-51.3468746480233" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="216" label="yra">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="7.88145405508396" y="-7.98565002341667" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="217" label="berdikari">
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-71.5203924375904" y="23.4086782921685" z="0"/>
+        <viz:size value="10"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="2" weight="1"/>
+      <edge id="1" source="2" target="3" weight="1"/>
+      <edge id="2" source="3" target="4" weight="1"/>
+      <edge id="3" source="4" target="5" weight="1"/>
+      <edge id="4" source="5" target="6" weight="1"/>
+      <edge id="5" source="6" target="7" weight="1"/>
+      <edge id="6" source="7" target="8" weight="1"/>
+      <edge id="7" source="8" target="9" weight="1"/>
+      <edge id="8" source="6" target="9" weight="1"/>
+      <edge id="9" source="6" target="10" weight="1"/>
+      <edge id="10" source="10" target="11" weight="1"/>
+      <edge id="11" source="11" target="12" weight="1"/>
+      <edge id="12" source="12" target="13" weight="1"/>
+      <edge id="13" source="13" target="14" weight="1"/>
+      <edge id="14" source="14" target="15" weight="1"/>
+      <edge id="15" source="15" target="16" weight="1"/>
+      <edge id="16" source="16" target="17" weight="1"/>
+      <edge id="17" source="17" target="18" weight="1"/>
+      <edge id="18" source="18" target="19" weight="1"/>
+      <edge id="19" source="19" target="20" weight="1"/>
+      <edge id="20" source="20" target="21" weight="1"/>
+      <edge id="21" source="21" target="22" weight="1"/>
+      <edge id="22" source="22" target="23" weight="1"/>
+      <edge id="23" source="23" target="24" weight="1"/>
+      <edge id="24" source="24" target="25" weight="1"/>
+      <edge id="25" source="25" target="26" weight="1"/>
+      <edge id="26" source="26" target="27" weight="1"/>
+      <edge id="27" source="23" target="27" weight="1"/>
+      <edge id="28" source="23" target="24" weight="1"/>
+      <edge id="29" source="24" target="25" weight="1"/>
+      <edge id="30" source="25" target="28" weight="1"/>
+      <edge id="31" source="28" target="29" weight="1"/>
+      <edge id="32" source="29" target="30" weight="1"/>
+      <edge id="33" source="30" target="31" weight="1"/>
+      <edge id="34" source="11" target="31" weight="1"/>
+      <edge id="35" source="11" target="32" weight="1"/>
+      <edge id="36" source="32" target="33" weight="1"/>
+      <edge id="37" source="33" target="215" weight="1"/>
+      <edge id="38" source="34" target="35" weight="1"/>
+      <edge id="39" source="35" target="36" weight="1"/>
+      <edge id="40" source="36" target="37" weight="1"/>
+      <edge id="41" source="37" target="38" weight="1"/>
+      <edge id="42" source="38" target="39" weight="1"/>
+      <edge id="43" source="39" target="40" weight="1"/>
+      <edge id="44" source="40" target="41" weight="1"/>
+      <edge id="45" source="24" target="41" weight="1"/>
+      <edge id="46" source="24" target="25" weight="1"/>
+      <edge id="47" source="25" target="42" weight="1"/>
+      <edge id="48" source="42" target="43" weight="1"/>
+      <edge id="49" source="43" target="44" weight="1"/>
+      <edge id="50" source="11" target="44" weight="1"/>
+      <edge id="51" source="11" target="45" weight="1"/>
+      <edge id="52" source="45" target="46" weight="1"/>
+      <edge id="53" source="46" target="47" weight="1"/>
+      <edge id="54" source="24" target="47" weight="1"/>
+      <edge id="55" source="24" target="25" weight="1"/>
+      <edge id="56" source="25" target="48" weight="1"/>
+      <edge id="57" source="48" target="49" weight="1"/>
+      <edge id="58" source="25" target="49" weight="1"/>
+      <edge id="59" source="25" target="31" weight="1"/>
+      <edge id="60" source="31" target="50" weight="1"/>
+      <edge id="61" source="50" target="51" weight="1"/>
+      <edge id="62" source="51" target="52" weight="1"/>
+      <edge id="63" source="52" target="53" weight="1"/>
+      <edge id="64" source="11" target="53" weight="1"/>
+      <edge id="65" source="11" target="54" weight="1"/>
+      <edge id="66" source="54" target="55" weight="1"/>
+      <edge id="67" source="55" target="56" weight="1"/>
+      <edge id="68" source="56" target="57" weight="1"/>
+      <edge id="69" source="57" target="58" weight="1"/>
+      <edge id="70" source="40" target="58" weight="1"/>
+      <edge id="71" source="40" target="59" weight="1"/>
+      <edge id="72" source="47" target="59" weight="1"/>
+      <edge id="73" source="14" target="47" weight="1"/>
+      <edge id="74" source="14" target="60" weight="1"/>
+      <edge id="75" source="60" target="86" weight="1"/>
+      <edge id="76" source="61" target="62" weight="1"/>
+      <edge id="77" source="62" target="63" weight="1"/>
+      <edge id="78" source="61" target="63" weight="1"/>
+      <edge id="79" source="61" target="64" weight="1"/>
+      <edge id="80" source="64" target="65" weight="1"/>
+      <edge id="81" source="11" target="65" weight="1"/>
+      <edge id="82" source="11" target="38" weight="1"/>
+      <edge id="83" source="38" target="66" weight="1"/>
+      <edge id="84" source="66" target="67" weight="1"/>
+      <edge id="85" source="40" target="67" weight="1"/>
+      <edge id="86" source="40" target="49" weight="1"/>
+      <edge id="87" source="49" target="68" weight="1"/>
+      <edge id="88" source="68" target="69" weight="1"/>
+      <edge id="89" source="69" target="70" weight="1"/>
+      <edge id="90" source="70" target="71" weight="1"/>
+      <edge id="91" source="45" target="71" weight="1"/>
+      <edge id="92" source="45" target="72" weight="1"/>
+      <edge id="93" source="72" target="73" weight="1"/>
+      <edge id="94" source="38" target="73" weight="1"/>
+      <edge id="95" source="38" target="74" weight="1"/>
+      <edge id="96" source="74" target="75" weight="1"/>
+      <edge id="97" source="75" target="76" weight="1"/>
+      <edge id="98" source="76" target="77" weight="1"/>
+      <edge id="99" source="77" target="78" weight="1"/>
+      <edge id="100" source="78" target="79" weight="1"/>
+      <edge id="101" source="79" target="80" weight="1"/>
+      <edge id="102" source="80" target="81" weight="1"/>
+      <edge id="103" source="81" target="82" weight="1"/>
+      <edge id="104" source="82" target="83" weight="1"/>
+      <edge id="105" source="54" target="83" weight="1"/>
+      <edge id="106" source="54" target="84" weight="1"/>
+      <edge id="107" source="42" target="84" weight="1"/>
+      <edge id="108" source="42" target="85" weight="1"/>
+      <edge id="109" source="55" target="85" weight="1"/>
+      <edge id="110" source="55" target="56" weight="1"/>
+      <edge id="111" source="56" target="86" weight="1"/>
+      <edge id="112" source="86" target="216" weight="1"/>
+      <edge id="113" source="87" target="88" weight="1"/>
+      <edge id="114" source="88" target="89" weight="1"/>
+      <edge id="115" source="89" target="90" weight="1"/>
+      <edge id="116" source="21" target="90" weight="1"/>
+      <edge id="117" source="21" target="91" weight="1"/>
+      <edge id="118" source="91" target="92" weight="1"/>
+      <edge id="119" source="53" target="92" weight="1"/>
+      <edge id="120" source="53" target="93" weight="1"/>
+      <edge id="121" source="54" target="93" weight="1"/>
+      <edge id="122" source="54" target="94" weight="1"/>
+      <edge id="123" source="16" target="94" weight="1"/>
+      <edge id="124" source="16" target="40" weight="1"/>
+      <edge id="125" source="40" target="95" weight="1"/>
+      <edge id="126" source="95" target="96" weight="1"/>
+      <edge id="127" source="96" target="97" weight="1"/>
+      <edge id="128" source="97" target="98" weight="1"/>
+      <edge id="129" source="98" target="99" weight="1"/>
+      <edge id="130" source="92" target="99" weight="1"/>
+      <edge id="131" source="51" target="100" weight="1"/>
+      <edge id="132" source="51" target="101" weight="1"/>
+      <edge id="133" source="101" target="102" weight="1"/>
+      <edge id="134" source="102" target="103" weight="1"/>
+      <edge id="135" source="54" target="103" weight="1"/>
+      <edge id="136" source="14" target="54" weight="1"/>
+      <edge id="137" source="14" target="104" weight="1"/>
+      <edge id="138" source="104" target="105" weight="1"/>
+      <edge id="139" source="105" target="106" weight="1"/>
+      <edge id="140" source="106" target="107" weight="1"/>
+      <edge id="141" source="107" target="108" weight="1"/>
+      <edge id="142" source="108" target="109" weight="1"/>
+      <edge id="143" source="109" target="110" weight="1"/>
+      <edge id="144" source="110" target="111" weight="1"/>
+      <edge id="145" source="31" target="111" weight="1"/>
+      <edge id="146" source="31" target="112" weight="1"/>
+      <edge id="147" source="112" target="113" weight="1"/>
+      <edge id="148" source="113" target="114" weight="1"/>
+      <edge id="149" source="114" target="115" weight="1"/>
+      <edge id="150" source="14" target="115" weight="1"/>
+      <edge id="151" source="14" target="116" weight="1"/>
+      <edge id="152" source="116" target="117" weight="1"/>
+      <edge id="153" source="31" target="117" weight="1"/>
+      <edge id="154" source="31" target="118" weight="1"/>
+      <edge id="155" source="118" target="119" weight="1"/>
+      <edge id="156" source="119" target="120" weight="1"/>
+      <edge id="157" source="40" target="120" weight="1"/>
+      <edge id="158" source="40" target="121" weight="1"/>
+      <edge id="159" source="121" target="122" weight="1"/>
+      <edge id="160" source="122" target="123" weight="1"/>
+      <edge id="161" source="123" target="124" weight="1"/>
+      <edge id="162" source="124" target="125" weight="1"/>
+      <edge id="163" source="40" target="125" weight="1"/>
+      <edge id="164" source="40" target="126" weight="1"/>
+      <edge id="165" source="96" target="126" weight="1"/>
+      <edge id="166" source="96" target="127" weight="1"/>
+      <edge id="167" source="127" target="128" weight="1"/>
+      <edge id="168" source="86" target="128" weight="1"/>
+      <edge id="169" source="11" target="40" weight="1"/>
+      <edge id="170" source="40" target="49" weight="1"/>
+      <edge id="171" source="49" target="68" weight="1"/>
+      <edge id="172" source="68" target="69" weight="1"/>
+      <edge id="173" source="69" target="70" weight="1"/>
+      <edge id="174" source="45" target="70" weight="1"/>
+      <edge id="175" source="45" target="72" weight="1"/>
+      <edge id="176" source="72" target="73" weight="1"/>
+      <edge id="177" source="73" target="129" weight="1"/>
+      <edge id="178" source="129" target="130" weight="1"/>
+      <edge id="179" source="38" target="130" weight="1"/>
+      <edge id="180" source="38" target="131" weight="1"/>
+      <edge id="181" source="131" target="132" weight="1"/>
+      <edge id="182" source="132" target="133" weight="1"/>
+      <edge id="183" source="133" target="134" weight="1"/>
+      <edge id="184" source="134" target="135" weight="1"/>
+      <edge id="185" source="75" target="135" weight="1"/>
+      <edge id="186" source="75" target="136" weight="1"/>
+      <edge id="187" source="78" target="136" weight="1"/>
+      <edge id="188" source="78" target="137" weight="1"/>
+      <edge id="189" source="137" target="138" weight="1"/>
+      <edge id="190" source="54" target="138" weight="1"/>
+      <edge id="191" source="54" target="139" weight="1"/>
+      <edge id="192" source="139" target="140" weight="1"/>
+      <edge id="193" source="140" target="141" weight="1"/>
+      <edge id="194" source="42" target="141" weight="1"/>
+      <edge id="195" source="42" target="85" weight="1"/>
+      <edge id="196" source="55" target="85" weight="1"/>
+      <edge id="197" source="55" target="56" weight="1"/>
+      <edge id="198" source="56" target="86" weight="1"/>
+      <edge id="199" source="76" target="142" weight="1"/>
+      <edge id="200" source="76" target="77" weight="1"/>
+      <edge id="201" source="77" target="78" weight="1"/>
+      <edge id="202" source="78" target="143" weight="1"/>
+      <edge id="203" source="143" target="144" weight="1"/>
+      <edge id="204" source="55" target="144" weight="1"/>
+      <edge id="205" source="55" target="145" weight="1"/>
+      <edge id="206" source="145" target="146" weight="1"/>
+      <edge id="207" source="146" target="147" weight="1"/>
+      <edge id="208" source="147" target="148" weight="1"/>
+      <edge id="209" source="15" target="148" weight="1"/>
+      <edge id="210" source="15" target="28" weight="1"/>
+      <edge id="211" source="28" target="149" weight="1"/>
+      <edge id="212" source="53" target="149" weight="1"/>
+      <edge id="213" source="53" target="150" weight="1"/>
+      <edge id="214" source="150" target="151" weight="1"/>
+      <edge id="215" source="73" target="151" weight="1"/>
+      <edge id="216" source="73" target="152" weight="1"/>
+      <edge id="217" source="152" target="153" weight="1"/>
+      <edge id="218" source="153" target="154" weight="1"/>
+      <edge id="219" source="153" target="154" weight="1"/>
+      <edge id="220" source="153" target="155" weight="1"/>
+      <edge id="221" source="40" target="155" weight="1"/>
+      <edge id="222" source="40" target="153" weight="1"/>
+      <edge id="223" source="153" target="156" weight="1"/>
+      <edge id="224" source="92" target="156" weight="1"/>
+      <edge id="225" source="40" target="92" weight="1"/>
+      <edge id="226" source="40" target="117" weight="1"/>
+      <edge id="227" source="117" target="176" weight="1"/>
+      <edge id="228" source="43" target="100" weight="1"/>
+      <edge id="229" source="43" target="157" weight="1"/>
+      <edge id="230" source="157" target="158" weight="1"/>
+      <edge id="231" source="78" target="158" weight="1"/>
+      <edge id="232" source="78" target="159" weight="1"/>
+      <edge id="233" source="16" target="159" weight="1"/>
+      <edge id="234" source="16" target="160" weight="1"/>
+      <edge id="235" source="40" target="160" weight="1"/>
+      <edge id="236" source="40" target="161" weight="1"/>
+      <edge id="237" source="161" target="162" weight="1"/>
+      <edge id="238" source="162" target="163" weight="1"/>
+      <edge id="239" source="163" target="164" weight="1"/>
+      <edge id="240" source="31" target="164" weight="1"/>
+      <edge id="241" source="31" target="165" weight="1"/>
+      <edge id="242" source="40" target="165" weight="1"/>
+      <edge id="243" source="40" target="166" weight="1"/>
+      <edge id="244" source="31" target="166" weight="1"/>
+      <edge id="245" source="31" target="167" weight="1"/>
+      <edge id="246" source="167" target="168" weight="1"/>
+      <edge id="247" source="168" target="169" weight="1"/>
+      <edge id="248" source="169" target="170" weight="1"/>
+      <edge id="249" source="170" target="171" weight="1"/>
+      <edge id="250" source="171" target="172" weight="1"/>
+      <edge id="251" source="172" target="173" weight="1"/>
+      <edge id="252" source="31" target="173" weight="1"/>
+      <edge id="253" source="31" target="104" weight="1"/>
+      <edge id="254" source="104" target="174" weight="1"/>
+      <edge id="255" source="151" target="174" weight="1"/>
+      <edge id="256" source="73" target="151" weight="1"/>
+      <edge id="257" source="24" target="73" weight="1"/>
+      <edge id="258" source="24" target="175" weight="1"/>
+      <edge id="259" source="117" target="175" weight="1"/>
+      <edge id="260" source="29" target="117" weight="1"/>
+      <edge id="261" source="29" target="117" weight="1"/>
+      <edge id="262" source="117" target="176" weight="1"/>
+      <edge id="263" source="40" target="176" weight="1"/>
+      <edge id="264" source="40" target="217" weight="1"/>
+      <edge id="265" source="11" target="177" weight="1"/>
+      <edge id="266" source="24" target="177" weight="1"/>
+      <edge id="267" source="24" target="25" weight="1"/>
+      <edge id="268" source="25" target="33" weight="1"/>
+      <edge id="269" source="33" target="178" weight="1"/>
+      <edge id="270" source="15" target="178" weight="1"/>
+      <edge id="271" source="14" target="179" weight="1"/>
+      <edge id="272" source="14" target="180" weight="1"/>
+      <edge id="273" source="180" target="181" weight="1"/>
+      <edge id="274" source="54" target="181" weight="1"/>
+      <edge id="275" source="54" target="55" weight="1"/>
+      <edge id="276" source="55" target="57" weight="1"/>
+      <edge id="277" source="57" target="182" weight="1"/>
+      <edge id="278" source="40" target="182" weight="1"/>
+      <edge id="279" source="40" target="183" weight="1"/>
+      <edge id="280" source="171" target="183" weight="1"/>
+      <edge id="281" source="171" target="184" weight="1"/>
+      <edge id="282" source="184" target="185" weight="1"/>
+      <edge id="283" source="185" target="186" weight="1"/>
+      <edge id="284" source="186" target="187" weight="1"/>
+      <edge id="285" source="187" target="188" weight="1"/>
+      <edge id="286" source="188" target="189" weight="1"/>
+      <edge id="287" source="181" target="189" weight="1"/>
+      <edge id="288" source="53" target="181" weight="1"/>
+      <edge id="289" source="53" target="190" weight="1"/>
+      <edge id="290" source="40" target="190" weight="1"/>
+      <edge id="291" source="40" target="144" weight="1"/>
+      <edge id="292" source="55" target="144" weight="1"/>
+      <edge id="293" source="55" target="100" weight="1"/>
+      <edge id="294" source="100" target="191" weight="1"/>
+      <edge id="295" source="78" target="191" weight="1"/>
+      <edge id="296" source="78" target="192" weight="1"/>
+      <edge id="297" source="192" target="193" weight="1"/>
+      <edge id="298" source="40" target="193" weight="1"/>
+      <edge id="299" source="29" target="40" weight="1"/>
+      <edge id="300" source="29" target="181" weight="1"/>
+      <edge id="301" source="31" target="181" weight="1"/>
+      <edge id="302" source="31" target="194" weight="1"/>
+      <edge id="303" source="86" target="194" weight="1"/>
+      <edge id="304" source="195" target="196" weight="1"/>
+      <edge id="305" source="196" target="197" weight="1"/>
+      <edge id="306" source="197" target="198" weight="1"/>
+      <edge id="307" source="198" target="199" weight="1"/>
+      <edge id="308" source="199" target="200" weight="1"/>
+      <edge id="309" source="200" target="201" weight="1"/>
+      <edge id="310" source="201" target="202" weight="1"/>
+      <edge id="311" source="195" target="202" weight="1"/>
+      <edge id="312" source="195" target="203" weight="1"/>
+      <edge id="313" source="203" target="204" weight="1"/>
+      <edge id="314" source="204" target="205" weight="1"/>
+      <edge id="315" source="40" target="205" weight="1"/>
+      <edge id="316" source="40" target="206" weight="1"/>
+      <edge id="317" source="206" target="207" weight="1"/>
+      <edge id="318" source="207" target="208" weight="1"/>
+      <edge id="319" source="47" target="208" weight="1"/>
+      <edge id="320" source="47" target="209" weight="1"/>
+      <edge id="321" source="209" target="210" weight="1"/>
+      <edge id="322" source="54" target="210" weight="1"/>
+      <edge id="323" source="14" target="54" weight="1"/>
+      <edge id="324" source="14" target="187" weight="1"/>
+      <edge id="325" source="105" target="187" weight="1"/>
+      <edge id="326" source="105" target="205" weight="1"/>
+      <edge id="327" source="40" target="205" weight="1"/>
+      <edge id="328" source="40" target="206" weight="1"/>
+      <edge id="329" source="206" target="211" weight="1"/>
+      <edge id="330" source="211" target="212" weight="1"/>
+      <edge id="331" source="212" target="213" weight="1"/>
+      <edge id="332" source="171" target="213" weight="1"/>
+      <edge id="333" source="171" target="211" weight="1"/>
+      <edge id="334" source="211" target="214" weight="1"/>
+      <edge id="335" source="213" target="214" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
+
